@@ -1,0 +1,3 @@
+C:/Users/blood/CLionProjects/passwordManager/cmake-build-debug/CMakeFiles/passwordManager.dir
+C:/Users/blood/CLionProjects/passwordManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/blood/CLionProjects/passwordManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
